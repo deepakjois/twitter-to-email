@@ -1,0 +1,8 @@
+{
+  "bucket": "twitter-to-email-example",
+  "consumer-api-key":"<redacted>",
+  "consumer-api-secret-key":"<redacted>",
+  "access-token":"<redacted>",
+  "access-token-secret": "<redacted>",
+  "email": "<redacted>"
+}
